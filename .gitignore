@@ -1,0 +1,16 @@
+# Ignore all .pyc files
+*.pyc
+
+# Ignore __pycache__ folders
+__pycache__
+
+# Ignore data folder
+data
+
+# Ignore venv folder
+venv
+
+# Ignore files extensions 
+*.json
+*.env
+*.csv
